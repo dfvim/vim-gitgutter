@@ -3,3 +3,5 @@
 /test/*.actual
 *.log
 
+# ignore commit message
+.gitcommit
